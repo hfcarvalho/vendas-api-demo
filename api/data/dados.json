@@ -1,0 +1,148 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Mario",
+      "ativo": true,
+      "email": "erika@qwasolucoes.com.br",
+      "dataNascimento": "05/10/1988"
+    },
+    {
+      "id": 2,
+      "nome": "Helio Carvalho",
+      "ativo": true,
+      "email": "g@g.com",
+      "dataNascimento": "01/10/1988"
+    },
+    {
+      "nome": "Erika",
+      "ativo": true,
+      "email": "teste@teste.com",
+      "dataNascimento": "10/10/1990",
+      "id": 3
+    },
+    {
+      "nome": "Erika",
+      "ativo": true,
+      "email": "teste@teste.com",
+      "dataNascimento": "10/10/1990",
+      "codigo": 4,
+      "id": 4
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 5,
+      "id": 5
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 6,
+      "id": 6
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 7,
+      "id": 7
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 8,
+      "id": 8
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 9,
+      "id": 9
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 10,
+      "id": 10
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 11,
+      "id": 11
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 12,
+      "id": 12
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 13,
+      "id": 13
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 14,
+      "id": 14
+    },
+    {
+      "nome": "Luke",
+      "ativo": true,
+      "email": "zaxa@dadasa.com",
+      "dataNascimento": "10/10/1988",
+      "codigo": 16,
+      "id": 16
+    },
+    {
+      "nome": "Erika Carvalho",
+      "ativo": true,
+      "email": "teste@teste.com",
+      "dataNascimento": "10/10/1990",
+      "id": 17
+    }
+  ],
+  "vendas": [
+    {
+      "id": 1,
+      "data": "09/11/2021",
+      "codigoCliente": 1,
+      "status": "PROCESSANDO"
+    },
+    {
+      "id": 2,
+      "data": "10/10/2021",
+      "codigoCliente": 1,
+      "status": "APROVADO"
+    },
+    {
+      "id": 3,
+      "data": "09/11/2021",
+      "codigoCliente": 2,
+      "status": "APROVADO"
+    }
+  ]
+}
